@@ -530,7 +530,7 @@ body.section-switching.up .animation-block{
 }
 .about-text > p{
 	font-size:14px;
-	color:rgba(0,0,0,.4);
+	color:rgba(0,0,0,.65);
 	line-height:1.8em;
 }
 .about-text{
@@ -557,7 +557,7 @@ body.section-switching.up .animation-block{
 	text-transform:uppercase;
 }
 .info-list > li > span{
-	color:rgba(0,0,0,.4);
+	color:rgba(0,0,0,.65);
 }
 .services-block .section-header{
 	margin-bottom:80px;
@@ -623,7 +623,7 @@ body.section-switching.up .animation-block{
 }
 .service > .content > p{
 	line-height:1.6em;
-	color:rgba(0,0,0,.4);
+	color:rgba(0,0,0,.65);
 	margin:0;
 }
 .skills-block .section-header{
@@ -728,7 +728,7 @@ body.section-switching.up .animation-block{
 }
 .p-table > .items > li{
 	padding:10px 0;
-	color:rgba(0,0,0,.4);
+	color:rgba(0,0,0,.65);
 }
 .p-table > .header{
 	margin-bottom:35px;
@@ -762,7 +762,7 @@ body.section-switching.up .animation-block{
 	font-size:14px;
 	text-transform:uppercase;
 	letter-spacing:2px;
-	color:rgba(0,0,0,.4);
+	color:rgba(0,0,0,.65);
 }
 
 
@@ -836,7 +836,7 @@ body.section-switching.up .animation-block{
 .timeline > li > .timeline-content > p{
 	margin:0;
 	line-height:1.6em;
-	color:rgba(0,0,0,.4);
+	color:rgba(0,0,0,.65);
 }
 .testimonials-block .section-header{
 	margin-bottom:80px;
@@ -923,7 +923,7 @@ body.section-switching.up .animation-block{
 	display:block;
 	font-size:16px;
 	font-weight:500;
-	color:rgba(0,0,0,.4);
+	color:rgba(0,0,0,.65);
 	text-decoration:none;
 	text-transform:uppercase;
 	letter-spacing:4px;
@@ -1143,7 +1143,7 @@ body.section-switching.up .animation-block{
 
 .popup-box > .content > p{
 	font-size:14px;
-	color:rgba(0,0,0,.45);
+	color:rgba(0,0,0,.8);
 	font-weight:500;
 }
 
@@ -1217,7 +1217,7 @@ body.section-switching.up .animation-block{
 	font-size:16px;
 	line-height:1.6em;
 	font-style:italic;
-	color:rgba(0,0,0,.4);
+	color:rgba(0,0,0,.65);
 	margin:0;
 	margin-top:5px;
 }
