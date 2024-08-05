@@ -240,8 +240,42 @@ body.border-dark .main-content:after{
 =======================================================*/
 .section-main{
 	background-size:cover;
-	background-image:url(../img/bg.jpg);
+	background-image:url(../img/charleston.jpg);
+
+	transition: 5s;
+
+	animation-name: animate;
+	animation-direction: alternate;
+	animation-play-state: running;
+	animation-timing-function: ease-in-out;
+	animation-duration: 40s; 
+	animation-fill-mode: forwards;
+	animation-iteration-count: infinite;
+
+
 }
+@keyframes animate {
+	0% {
+		background-image:url(../img/charleston.jpg);
+	}
+	20%{
+		background-image:url(../img/barcade.jpg);
+	}
+	40% {
+		background-image:url(../img/china.jpg);
+	}
+	60% {
+		background-image:url(../img/captiva.jpg);
+	}
+	80% {
+		background-image:url(../img/fb.jpg);
+	}
+	100% {
+		background-image:url(../img/bridge.jpg);
+	}
+	
+}
+
 .section-main:before{
 	content: ' ';
 	position:absolute;
